@@ -26,3 +26,7 @@ function follow(event) {
   }
   
 }
+
+$(".hearts").click(function(){
+  window.location.href="memory.html";
+})
